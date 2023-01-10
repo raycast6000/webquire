@@ -1,4 +1,4 @@
-require = function(url : string | number)
+getgenv().require = function(url : string)
 
 		if not url then return end
 
