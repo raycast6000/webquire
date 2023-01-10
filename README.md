@@ -6,4 +6,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raycast6000/webquire/
 ```
 # Examples
 This is the module that we want to require.
-![Alt text](https://i.imgur.com/JXnRazI.jpg "Optional title")
+![Alt textwa](https://i.imgur.com/JXnRazI.jpg "Optional title")
